@@ -7,7 +7,7 @@ public:
         for(int i=0;i<s.size();i++){
             
             if(s[i]=='I'){
-                if(i+1<s.size() && (s[i+1]=='V' || s[i+1]=='X')){
+                if((s[i+1]=='V' || s[i+1]=='X')){
                     total-=1;
                 }
                 else{
@@ -20,7 +20,7 @@ public:
             }
             
             else if(s[i]=='X'){
-                if(i+1<s.size() && (s[i+1]=='L' || s[i+1]=='C')){
+                if((s[i+1]=='L' || s[i+1]=='C')){
                     total-=10;
                 }
                 else{
@@ -33,7 +33,7 @@ public:
             }
             
             else if(s[i]=='C'){
-                if(i+1<s.size() && (s[i+1]=='D' || s[i+1]=='M')){
+                if( (s[i+1]=='D' || s[i+1]=='M')){
                     total-=100;
                 }
                 else{
