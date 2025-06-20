@@ -11,6 +11,11 @@ public:
                 min = nums[i];
             }
         }
-        return gcd(min,mx);
+        while(min != 0){
+            int temp = min;
+            min =mx % min;
+            mx = temp;
+        }
+        return mx;
     }
 };
