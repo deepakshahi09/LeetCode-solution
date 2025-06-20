@@ -1,22 +1,10 @@
 class Solution {
 public:
     int maxProductDifference(vector<int>& nums) {
+        sort(nums.begin(), nums.end());
         int n = nums.size();
-        int mxp = nums[0]*nums[1];
-        int minp = nums[0]*nums[1];
-        for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                if(i != j && nums[i]*nums[j] > mxp){
-                    mxp = nums[i]*nums[j];
-                }
-                if(i != j && nums[i]*nums[j] < minp){
-                    minp = nums[i]*nums[j];
-                }
-
-            }
-
-        }
-        return (mxp-minp);
-        
+        int maxProduct = nums[n-1] * nums[n-2];
+        int minProduct = nums[0] * nums[1];
+        return maxProduct - minProduct;
     }
 };
