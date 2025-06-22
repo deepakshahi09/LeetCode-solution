@@ -1,6 +1,6 @@
 class Solution {
     public int unequalTriplets(int[] nums) {
-        Arrays.sort(nums);
+        // Arrays.sort(nums);
         int c = 0;
         int n = nums.length;
         for(int i = 0;i<n-2;i++){
