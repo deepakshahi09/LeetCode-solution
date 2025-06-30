@@ -15,15 +15,13 @@ public:
         for(int i = n - 2; i >= 0; i--) {
             right[i] = right[i + 1] * nums[i + 1];
         }
-
-        for(int i = 0; i < n; i++) {
-            ans[i] = left[i] * right[i];
-        }
-
         vector<int> result;
         for(int i = 0; i < n; i++) {
+            ans[i] = left[i] * right[i];
             result.push_back(ans[i]);
         }
+
+       
 
         return result;
     }
