@@ -1,17 +1,17 @@
 class Solution {
 public:
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>> result = {{}};
+        vector<vector<int>>ans = {{}};
+        for(int num : nums){
+            int p = ans.size();
+            for(int i=0;i<p;i++){
+                vector<int>subset = ans[i];
+                subset.push_back(num);
+                ans.push_back(subset);
 
-        for (int num : nums) {
-            int n = result.size();
-            for (int i = 0; i < n; i++) {
-                vector<int> subset = result[i];  // take existing subset
-                subset.push_back(num);           // add current number
-                result.push_back(subset);        // add new subset
             }
         }
-
-        return result;
+        return ans;
+        
     }
 };
