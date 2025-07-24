@@ -4,8 +4,9 @@ public:
         unordered_map<int,int>map;
         for(int i=0;i<nums.size();i++){
             int com = target-nums[i];
-            if(map.find(com) != map.end()){
-                return {map[com],i};
+            // if(map.find(com) != map.end()){
+                if(map.count(com)){
+                    return {map[com],i};
             }
             else{
                 map[nums[i]] = i;
