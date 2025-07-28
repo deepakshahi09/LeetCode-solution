@@ -13,7 +13,7 @@ public:
             int i = mid/m;
             int j = mid%m;
 
-            if(matrix[i][j] == target){
+            if(matrix[i][j]==target){
                 return true;
             }
             else if(matrix[i][j] > target){
