@@ -1,17 +1,14 @@
 class Solution {
 public:
-    int numWaterBottles(int n, int e) {
-        int to = n;
-        int nb,rb;
-        while(n>=e){
-             nb = n/e;
-             rb = n%e;
-            to = to+nb;
-            n= rb+nb;
-
+    int numWaterBottles(int numBottles, int numExchange) {
+        int ans = numBottles;
+        while(numBottles >= numExchange){
+            int newb = numBottles/numExchange;
+            int old = numBottles%numExchange;
+            ans+=newb;
+            numBottles = old+newb;
         }
-        return to;
-
+        return ans;
         
     }
 };
