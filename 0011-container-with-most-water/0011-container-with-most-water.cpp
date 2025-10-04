@@ -4,22 +4,22 @@ public:
         int n = height.size();
         int st = 0;
         int lst = n-1;
-        int maxw = 0;
+        int ans = 0;
         while(st<lst){
             int h = min(height[st],height[lst]);
             int w = lst-st;
             int ar = h*w;
-            if(maxw < ar){
-                maxw = ar;
+            if(ans < ar){
+                ans= ar;
             }
-            if(height[st] > height[lst]){
-                lst--;
-            }
-            else{
+            if(height[st] < height[lst]){
                 st++;
             }
+            else{
+                lst--;
+            }
         }
-        return maxw;
+        return ans;
         
     }
 };
