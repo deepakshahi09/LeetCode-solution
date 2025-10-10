@@ -2,14 +2,14 @@ class Solution {
 public:
     string clearDigits(string s) {
         stack<char>st;
-        for(int i=0;i<s.size();i++){
-            if(isdigit(s[i])){
+        for(char ch : s){
+            if(isdigit(ch)){
                 if(!st.empty()){
                     st.pop();
                 }
             }
             else{
-                st.push(s[i]);
+                st.push(ch);
             }
         }
         string ans = "";
@@ -19,5 +19,6 @@ public:
         }
         reverse(ans.begin(),ans.end());
         return ans;
+        
     }
 };
