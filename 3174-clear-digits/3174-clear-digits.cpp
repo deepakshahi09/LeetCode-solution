@@ -4,7 +4,7 @@ public:
         stack<char>st;
         for(int i=0;i<s.size();i++){
             if(isdigit(s[i])){
-                if(!s.empty()){
+                if(!st.empty()){
                     st.pop();
                 }
             }
