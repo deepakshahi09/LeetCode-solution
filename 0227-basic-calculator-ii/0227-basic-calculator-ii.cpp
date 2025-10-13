@@ -8,12 +8,10 @@ public:
         for (int i = 0; i < s.size(); i++) {
             char c = s[i];
 
-            // Build the current number
             if (isdigit(c)) {
                 num = num * 10 + (c - '0');
             }
 
-            // If operator or end of string
             if ((!isdigit(c) && c != ' ') || i == s.size() - 1) {
                 if (op == '+') {
                     st.push(num);
@@ -24,15 +22,15 @@ public:
                 else if (op == '*') {
                     int top = st.top();
                     st.pop();
-                    st.push(top * num); // ✅ multiply popped value with current number
+                    st.push(top * num); 
                 } 
                 else if (op == '/') {
                     int top = st.top();
                     st.pop();
-                    st.push(top / num); // ✅ divide popped value with current number
+                    st.push(top / num);
                 }
 
-                // Update operator and reset number
+              
                 op = c;
                 num = 0;
             }
