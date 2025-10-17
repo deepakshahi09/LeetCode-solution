@@ -1,24 +1,27 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& nums, int k) {
-        int n = nums.size();
-        vector<int> left(n), right(n), ans;
+        vector<int> ans;
+        deque<int> dq; // stores indices of elements
 
-        // Fill left array
-        for (int i = 0; i < n; i++) {
-            if (i % k == 0) left[i] = nums[i];
-            else left[i] = max(left[i - 1], nums[i]);
-        }
+        for (int i = 0; i < nums.size(); i++) {
+            // 1. Remove elements that are out of this window
+            if (!dq.empty() && dq.front() == i - k)
+                dq.pop_front();
 
-        // Fill right array
-        for (int i = n - 1; i >= 0; i--) {
-            if (i == n - 1 || (i + 1) % k == 0) right[i] = nums[i];
-            else right[i] = max(right[i + 1], nums[i]);
-        }
+            // 2. Remove smaller elements from the back
+            while (!dq.empty() && nums[dq.back()] < nums[i])
+                dq.pop_back();
 
-        // Compute max for each window
-        for (int i = 0; i <= n - k; i++) {
-            ans.push_back(max(right[i], left[i + k - 1]));
+            // 3. Add current element index
+            dq.push_back(i);
+
+            // 4. Store the max (front of deque) when first window is complete
+            if (i >= k - 1)
+                ans.push_back(nums[dq.front()]);
         }
 
         return ans;
