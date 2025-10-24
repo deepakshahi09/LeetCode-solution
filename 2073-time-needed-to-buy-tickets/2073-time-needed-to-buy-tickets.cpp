@@ -9,11 +9,10 @@ public:
         while(!q.empty()){
             int i = q.front();
             q.pop();
-
             tickets[i]--;
             time++;
 
-            if(i==k && tickets[i] == 0){
+            if(i == k && tickets[i] == 0){
                 return time;
             }
             if(tickets[i] > 0){
@@ -21,5 +20,6 @@ public:
             }
         }
         return time;
+        
     }
 };
