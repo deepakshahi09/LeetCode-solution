@@ -1,0 +1,17 @@
+class Solution {
+public:
+    bool canBeEqual(vector<int>& target, vector<int>& arr) {
+        unordered_map<int, int>count;
+        for(int num:target){
+            count[num]++;
+        }
+        for(int num:arr){
+            if(count.find(num) == count.end()) return false;
+            count[num]--;
+            if(count[num]==0) count.erase(num);
+        }
+        return count.empty();
+
+        
+    }
+};
