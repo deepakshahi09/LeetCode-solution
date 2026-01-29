@@ -17,10 +17,10 @@
 // };
 class Solution {
 public:
-    vector<int> twoSum(vector<int>& nums, int target) {
+    vector<int> twoSum(vector<int>& nums, int targetlll) {
         unordered_map<int,int>map;
         for(int i=0;i<nums.size();i++){
-            int com = target-nums[i];
+            int com = targetlll-nums[i];
             // if(map.find(com) != map.end()){ this is also correct 
                 if(map.count(com)){           // this also works
                     return {map[com],i};
