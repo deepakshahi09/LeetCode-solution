@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0134-gas-station](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0134-gas-station) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Divide and Conquer
@@ -132,4 +133,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0021-merge-two-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
