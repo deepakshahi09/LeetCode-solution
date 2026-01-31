@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0005-longest-palindromic-substring) |
+| [0784-letter-case-permutation](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0784-letter-case-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,4 +144,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0779-k-th-symbol-in-grammar) |
+| [0784-letter-case-permutation](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0784-letter-case-permutation) |
+## Backtracking
+|  |
+| ------- |
+| [0784-letter-case-permutation](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
