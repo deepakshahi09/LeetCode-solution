@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0897-increasing-order-search-tree) |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0005-longest-palindromic-substring) |
+| [0143-reorder-list](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## String
@@ -158,12 +160,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0143-reorder-list) |
 | [0779-k-th-symbol-in-grammar](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0779-k-th-symbol-in-grammar) |
 ## Greedy
 |  |
