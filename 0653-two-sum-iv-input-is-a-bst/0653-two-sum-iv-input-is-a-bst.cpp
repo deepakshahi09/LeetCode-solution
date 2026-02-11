@@ -12,20 +12,22 @@
 class Solution {
 public:
     unordered_set<int>set;
-    bool dfs(TreeNode* root,int k){
+    bool solve(TreeNode* root,int k){
         if(root == NULL){
             return false;
         }
-        int need = k-root->val;
-        if(set.find(need) != set.end()){
+        
+        int need = k - root->val;
+        if(set.count(need)){
             return true;
         }
-        set.insert(root->val);
-        return dfs(root->left,k) || dfs(root->right,k);
+        else{
+            set.insert(root->val);
+        }
+        return solve(root->right,k) || solve(root->left,k);
 
     }
     bool findTarget(TreeNode* root, int k) {
-        return dfs(root,k);
-        
+        return solve(root,k);
     }
 };
