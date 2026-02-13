@@ -1,30 +1,20 @@
 class Solution {
 public:
     int findMin(vector<int>& nums) {
-        int start = 0;
-        int end = nums.size() - 1;
+        int st = 0;
+        int lst  = nums.size()-1;
+        int ans = nums[0];
+        while(st<=lst){
+            int mid = (st+lst)/2;
+            if(nums[mid] >= nums[0]){
+                st = mid+1;
+            }
+            else{
+                ans = nums[mid];
+                lst = mid-1;
+            }
+        }
+        return ans;
 
-        // If the array has only one element or is not rotated
-        if (nums.size() == 1 || nums[start] < nums[end]) {
-            return nums[0];
-        }
-        while (start <= end) {
-            int mid = start + (end - start) / 2;
-            // Check if mid is the minimum element
-            if (mid > 0 && nums[mid] < nums[mid - 1]) {
-                return nums[mid];
-            }
-            // Check if the element after mid is the minimum
-            if (mid < nums.size() - 1 && nums[mid] > nums[mid + 1]) {
-                return nums[mid + 1];
-            }
-            // Decide which half to search in
-            if (nums[start] <= nums[mid]) {
-                start = mid + 1;
-            } else {
-                end = mid - 1;
-            }
-        }
-        return -1; // This line will not be reached in a rotated sorted array
     }
 };
