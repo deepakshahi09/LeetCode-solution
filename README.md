@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0168-excel-sheet-column-title) |
 | [0779-k-th-symbol-in-grammar](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0779-k-th-symbol-in-grammar) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0198-house-robber) |
 ## Counting
 |  |
@@ -207,4 +209,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
