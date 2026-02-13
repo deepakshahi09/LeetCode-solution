@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0168-excel-sheet-column-title](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0168-excel-sheet-column-title) |
 | [0784-letter-case-permutation](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0784-letter-case-permutation) |
+| [1143-longest-common-subsequence](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1143-longest-common-subsequence) |
 | [1859-sorting-the-sentence](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2785-sort-vowels-in-a-string) |
 ## Dynamic Programming
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0322-coin-change) |
+| [1143-longest-common-subsequence](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1143-longest-common-subsequence) |
 ## Counting
 |  |
 | ------- |
