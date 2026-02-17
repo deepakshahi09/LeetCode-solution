@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0322-coin-change) |
 | [0630-course-schedule-iii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0630-course-schedule-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0300-longest-increasing-subsequence](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0300-longest-increasing-subsequence) |
 | [0450-delete-node-in-a-bst](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -195,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0070-climbing-stairs) |
 | [0132-palindrome-partitioning-ii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0322-coin-change) |
 | [1143-longest-common-subsequence](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1143-longest-common-subsequence) |
 ## Counting
