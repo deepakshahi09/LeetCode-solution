@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0173-binary-search-tree-iterator) |
 | [0897-increasing-order-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0134-gas-station) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0283-move-zeroes) |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0168-excel-sheet-column-title) |
 | [0779-k-th-symbol-in-grammar](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0779-k-th-symbol-in-grammar) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
