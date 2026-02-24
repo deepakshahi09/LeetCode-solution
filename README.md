@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0897-increasing-order-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0897-increasing-order-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1382-balance-a-binary-search-tree) |
+| [1631-path-with-minimum-effort](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1631-path-with-minimum-effort) |
 | [2360-longest-cycle-in-a-graph](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2360-longest-cycle-in-a-graph) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1631-path-with-minimum-effort) |
 | [2360-longest-cycle-in-a-graph](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2360-longest-cycle-in-a-graph) |
 ## Array
 |  |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0630-course-schedule-iii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0630-course-schedule-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1631-path-with-minimum-effort](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1631-path-with-minimum-effort) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Divide and Conquer
@@ -165,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0897-increasing-order-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1382-balance-a-binary-search-tree) |
+| [1631-path-with-minimum-effort](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1631-path-with-minimum-effort) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Math
 |  |
@@ -274,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0630-course-schedule-iii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0630-course-schedule-iii) |
+| [1631-path-with-minimum-effort](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1631-path-with-minimum-effort) |
 ## Database
 |  |
 | ------- |
@@ -305,8 +310,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0200-number-of-islands) |
+| [1631-path-with-minimum-effort](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0200-number-of-islands) |
+| [1631-path-with-minimum-effort](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
