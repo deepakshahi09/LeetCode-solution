@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0227-basic-calculator-ii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0227-basic-calculator-ii) |
 | [0897-increasing-order-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Tree
 |  |
 | ------- |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1143-longest-common-subsequence](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1143-longest-common-subsequence) |
 | [1859-sorting-the-sentence](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2785-sort-vowels-in-a-string) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -226,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Number Theory
 |  |
 | ------- |
