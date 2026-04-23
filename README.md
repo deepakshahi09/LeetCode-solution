@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0143-reorder-list](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0132-palindrome-partitioning-ii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0132-palindrome-partitioning-ii) |
 | [0168-excel-sheet-column-title](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0227-basic-calculator-ii) |
@@ -324,4 +326,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0200-number-of-islands) |
 | [1631-path-with-minimum-effort](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1631-path-with-minimum-effort) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
