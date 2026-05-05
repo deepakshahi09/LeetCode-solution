@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-path-with-minimum-effort](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1631-path-with-minimum-effort) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [3206-alternating-groups-i](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3206-alternating-groups-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Divide and Conquer
 |  |
@@ -348,4 +349,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3206-alternating-groups-i](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3206-alternating-groups-i) |
 <!---LeetCode Topics End-->
