@@ -16,19 +16,20 @@ public:
         }
         stack<ListNode*>st;
         ListNode* temp = head;
+        int n = 0;
         while(temp){
             st.push(temp);
             temp = temp->next;
+            n++;
         }
-        int n = st.size();
         temp = head;
         for(int i=0;i<n/2;i++){
-            ListNode* nextNode = temp->next;   // store next
-            ListNode* lastNode = st.top();
+            ListNode* nextNode = temp->next;
+            ListNode* lstNode = st.top();
             st.pop();
 
-            temp->next = lastNode;
-            lastNode->next = nextNode;
+            temp->next = lstNode;
+            lstNode->next = nextNode;
 
             temp = nextNode;
         }
