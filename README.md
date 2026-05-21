@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0001-two-sum) |
+| [0056-merge-intervals](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0134-gas-station) |
@@ -284,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0056-merge-intervals) |
 | [0354-russian-doll-envelopes](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0354-russian-doll-envelopes) |
 | [0630-course-schedule-iii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0630-course-schedule-iii) |
 | [1859-sorting-the-sentence](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1859-sorting-the-sentence) |
