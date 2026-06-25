@@ -1,16 +1,14 @@
 class Solution {
 public:
     int strStr(string h, string n) {
-        int i = 0;
-        while(i < h.size()){
-            int j = 0;
-            while(j< n.size() && n[j] == h[j+i]){
+        for(int i=0;i<h.size();i++){
+            int j=0;
+            while(j<n.size() && i<h.size() && n[j] == h[i+j] ){
                 j++;
             }
             if(j == n.size()){
                 return i;
             }
-            i++;
         }
         return -1;
         
