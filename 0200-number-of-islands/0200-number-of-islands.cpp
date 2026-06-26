@@ -1,31 +1,41 @@
 class Solution {
-public:
-    void dfs(int i, int j,vector<vector<char>>&gride){
-        int n = gride.size();
-        int m = gride[0].size();
-
-        if(i < 0 || j < 0 || i >= n || j>= m || gride[i][j] != '1'){
-            return;
-        }
-        gride[i][j] = '0';
-        dfs(i-1,j,gride);
-        dfs(i+1,j,gride);
-        dfs(i,j-1,gride);
-        dfs(i,j+1,gride);
-
-    }
-    int numIslands(vector<vector<char>>& grid) {
+    private:
+    void bfs(int ro,int co,vector<vector<int>>&visit, vector<vector<char>>&grid){
+        queue<pair<int,int>>q;
+        int delrow[] = {-1,0,1,0};
+        int delcol[] = {0,-1,0,1};
         int n = grid.size();
         int m = grid[0].size();
-        int c = 0;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(grid[i][j] == '1'){
-                    c++;
-                    dfs(i,j,grid);
+        q.push({ro,co});
+       // visit[ro][co] = 1;
+        while(!q.empty()){
+            int row = q.front().first;
+            int col = q.front().second;
+            q.pop();
+            for(int i=0;i<4;i++){
+                int nrow = row+delrow[i];
+                int ncol = col+delcol[i];
+                if(nrow >= 0 && nrow < n && ncol >= 0 && ncol < m && grid[nrow][ncol] == '1' && !visit[nrow][ncol]){
+                    visit[nrow][ncol] = 1;
+                    q.push({nrow,ncol});
                 }
             }
         }
-        return c;
+    }
+public:
+    int numIslands(vector<vector<char>>& grid) {
+        int n = grid.size();
+        int m = grid[0].size();
+        int count = 0;
+        vector<vector<int>>visit(n,vector<int>(m,0));
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(grid[i][j] == '1' && !visit[i][j]){
+                    count++;
+                    bfs(i,j,visit,grid);
+                }
+            }
+        }
+        return count;
     }
 };
