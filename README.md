@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0069-sqrtx) |
 | [0099-recover-binary-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0168-excel-sheet-column-title) |
