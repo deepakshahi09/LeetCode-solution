@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0354-russian-doll-envelopes) |
 | [0416-partition-equal-subset-sum](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0416-partition-equal-subset-sum) |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0307-range-sum-query-mutable](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0307-range-sum-query-mutable) |
 | [1382-balance-a-binary-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -301,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0146-lru-cache](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0173-binary-search-tree-iterator) |
+| [0307-range-sum-query-mutable](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0307-range-sum-query-mutable) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -371,4 +374,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0239-sliding-window-maximum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
