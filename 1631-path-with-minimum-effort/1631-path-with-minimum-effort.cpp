@@ -3,40 +3,34 @@ public:
     int minimumEffortPath(vector<vector<int>>& heights) {
         int n = heights.size();
         int m = heights[0].size();
-        vector<vector<int>>dist(n,vector<int>(m,INT_MAX));
-        priority_queue<
-            pair<int, pair<int,int>>,
-            vector<pair<int, pair<int,int>>>,
-            greater<pair<int, pair<int,int>>>
-        > pq;
-
-        pq.push({0,{0,0}});
+        vector<vector<int>>dist(n,vector<int>(m,1e9));
+        priority_queue<pair<int,pair<int,int>>,vector<pair<int,pair<int,int>>>,greater<pair<int,pair<int,int>>>>pq;
         dist[0][0] = 0;
-
-        int dx[4] = {-1,0,1,0};
-        int dy[4] = {0,1,0,-1};
-        
+        pq.push({0,{0,0}});
+        int delrow[] = {0,1,0,-1};
+        int delcol[] = {-1,0,1,0};
         while(!pq.empty()){
-            int effort = pq.top().first;
-            int x = pq.top().second.first;
-            int y = pq.top().second.second;
+            int dis = pq.top().first;
+            int row = pq.top().second.first;
+            int col = pq.top().second.second;
+            if(row == n-1 && col == m-1) return dis;
             pq.pop();
-            if(x == n-1 && y == m-1){
-                return effort;
-            }
-            for(int i =0;i<4;i++){
-                int nx = x+dx[i];
-                int ny = y+dy[i];
-                if(nx >= 0 && ny >= 0 && nx < n && ny < m){
-                    int neweff = max(effort, abs(heights[x][y] - heights[nx][ny]));
-                    if(neweff < dist[nx][ny]){
-                        dist[nx][ny] = neweff;
-                        pq.push({neweff,{nx,ny}});
+
+            for(int i=0;i<4;i++){
+                int nrow = row+delrow[i];
+                int ncol = col+delcol[i];
+                
+                if(nrow >= 0 && nrow <n && ncol >= 0 && ncol < m){
+                    int effort = max(abs(heights[nrow][ncol] - heights[row][col]),dis);
+                    if(effort < dist[nrow][ncol]){
+                        dist[nrow][ncol] = effort;
+                        pq.push({effort,{nrow,ncol}});
                     }
                 }
             }
         }
-        return 0;
+        return -1;
+
 
     }
 };
