@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0743-network-delay-time](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0897-increasing-order-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0897-increasing-order-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0662-maximum-width-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -324,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0239-sliding-window-maximum) |
 | [0630-course-schedule-iii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0630-course-schedule-iii) |
+| [0743-network-delay-time](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1631-path-with-minimum-effort) |
 ## Database
@@ -348,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0207-course-schedule) |
+| [0743-network-delay-time](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0997-find-the-town-judge](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0997-find-the-town-judge) |
 | [2360-longest-cycle-in-a-graph](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2360-longest-cycle-in-a-graph) |
@@ -399,5 +403,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
