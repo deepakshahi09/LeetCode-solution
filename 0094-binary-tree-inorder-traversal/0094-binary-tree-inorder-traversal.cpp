@@ -10,20 +10,17 @@
  * };
  */
 class Solution {
+    private:
+        void solve(vector<int>&ans,TreeNode* root){
+            if(!root) return;
+            solve(ans,root->left);
+            ans.push_back(root->val);
+            solve(ans,root->right);
+        }
 public:
     vector<int> inorderTraversal(TreeNode* root) {
-        vector<int> ans;
-        inorder(root,ans);
+        vector<int>ans;
+        solve(ans,root);
         return ans;
-        
-    }
-    private:
-    void inorder(TreeNode* root, vector<int> &ans){
-        if(root==NULL){
-            return;
-        }
-        inorder(root->left, ans);
-        ans.push_back(root->val);
-        inorder(root->right, ans);
     }
 };
