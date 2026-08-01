@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0897-increasing-order-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0897-increasing-order-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1382-balance-a-binary-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1382-balance-a-binary-search-tree) |
 | [1631-path-with-minimum-effort](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1631-path-with-minimum-effort) |
 | [2360-longest-cycle-in-a-graph](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2360-longest-cycle-in-a-graph) |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1631-path-with-minimum-effort) |
 | [2360-longest-cycle-in-a-graph](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2360-longest-cycle-in-a-graph) |
 ## Array
@@ -354,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0997-find-the-town-judge](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0997-find-the-town-judge) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2360-longest-cycle-in-a-graph](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2360-longest-cycle-in-a-graph) |
 ## Topological Sort
 |  |
@@ -364,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0200-number-of-islands) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
