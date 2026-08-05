@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0827-making-a-large-island](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0827-making-a-large-island) |
 | [0897-increasing-order-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0897-increasing-order-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0827-making-a-large-island](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0827-making-a-large-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0496-next-greater-element-i) |
 | [0630-course-schedule-iii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0630-course-schedule-iii) |
 | [0721-accounts-merge](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0721-accounts-merge) |
+| [0827-making-a-large-island](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0827-making-a-large-island) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -379,12 +382,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0721-accounts-merge) |
+| [0827-making-a-large-island](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0827-making-a-large-island) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0200-number-of-islands) |
+| [0827-making-a-large-island](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0827-making-a-large-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1631-path-with-minimum-effort) |
 ## String Matching
