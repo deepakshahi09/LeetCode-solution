@@ -237,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0143-reorder-list](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0283-move-zeroes) |
@@ -293,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0092-reverse-linked-list-ii) |
