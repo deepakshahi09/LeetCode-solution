@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0630-course-schedule-iii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0630-course-schedule-iii) |
 | [0721-accounts-merge](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0827-making-a-large-island) |
+| [0904-fruit-into-baskets](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1004-max-consecutive-ones-iii) |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0652-find-duplicate-subtrees](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0721-accounts-merge) |
+| [0904-fruit-into-baskets](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0997-find-the-town-judge) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -414,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0239-sliding-window-maximum) |
+| [0904-fruit-into-baskets](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
