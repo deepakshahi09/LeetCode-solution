@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0365-water-and-jug-problem](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0365-water-and-jug-problem) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0538-convert-bst-to-greater-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0543-diameter-of-binary-tree) |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0322-coin-change) |
+| [0365-water-and-jug-problem](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0365-water-and-jug-problem) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0721-accounts-merge) |
@@ -224,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0227-basic-calculator-ii) |
+| [0365-water-and-jug-problem](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0365-water-and-jug-problem) |
 | [0779-k-th-symbol-in-grammar](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0779-k-th-symbol-in-grammar) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -475,4 +478,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1004-max-consecutive-ones-iii) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
