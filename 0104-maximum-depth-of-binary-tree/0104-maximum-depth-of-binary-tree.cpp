@@ -10,20 +10,45 @@
  * };
  */
 class Solution {
-    private:
-    int ans = INT_MIN;
-    int height(TreeNode* root){
+public:
+    int maxDepth(TreeNode* root) {
+        queue<TreeNode*>q;
         if(!root){
             return 0;
         }
-        int left = height(root->left);
-        int right = height(root->right);
-        ans = max(ans,max(left,right));
-        return 1+max(left,right);
-    }
-public:
-    int maxDepth(TreeNode* root) {
-        return height(root);
-
+        q.push(root);
+        int c = 0;
+        while(!q.empty()){
+            int n = q.size();
+            c++;
+            for(int i=0;i<n;i++){
+                TreeNode* node = q.front();
+                q.pop();
+                if(node->left) q.push(node->left);
+                if(node->right) q.push(node->right);
+            }
+        }
+        return c;
+        
     }
 };
+
+
+// class Solution {
+//     private:
+//     int ans = INT_MIN;
+//     int height(TreeNode* root){
+//         if(!root){
+//             return 0;
+//         }
+//         int left = height(root->left);
+//         int right = height(root->right);
+//         ans = max(ans,max(left,right));
+//         return 1+max(left,right);
+//     }
+// public:
+//     int maxDepth(TreeNode* root) {
+//         return height(root);
+
+//     }
+// };
