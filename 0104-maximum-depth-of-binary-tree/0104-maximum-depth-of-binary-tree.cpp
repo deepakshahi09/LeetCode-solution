@@ -10,48 +10,20 @@
  * };
  */
 class Solution {
-public:
-    int maxDepth(TreeNode* root) {
-        if(root==NULL){
+    private:
+    int ans = INT_MIN;
+    int height(TreeNode* root){
+        if(!root){
             return 0;
         }
-        queue<TreeNode*>q;
-        q.push(root);
-        int count = 0;
-        while(!q.empty()){
-           int size = q.size();
-           for(int i=0;i<size;i++){
-            TreeNode* temp = q.front();
-            q.pop();
-            if(temp->left){
-                q.push(temp->left);
-            }
-            if(temp->right){
-                q.push(temp->right);
-            }
-           }
-           count++;
-        }
-        return count;
+        int left = height(root->left);
+        int right = height(root->right);
+        ans = max(ans,max(left,right));
+        return 1+max(left,right);
+    }
+public:
+    int maxDepth(TreeNode* root) {
+        return height(root);
 
-        
     }
 };
-
-
-
-// class Solution {
-// public:
-//     int maxDepth(TreeNode* root) {
-//         if(root == NULL) {
-//             return 0;
-//         }
-
-//         int leftDepth = maxDepth(root->left);
-//         int rightDepth = maxDepth(root->right);
-
-//         return 1 + max(leftDepth, rightDepth);
-//     }
-        
-    
-// };
