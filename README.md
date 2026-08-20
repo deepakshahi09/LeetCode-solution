@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1319-number-of-operations-to-make-network-connected](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1382-balance-a-binary-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1382-balance-a-binary-search-tree) |
 | [1631-path-with-minimum-effort](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1971-find-if-path-exists-in-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2360-longest-cycle-in-a-graph) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [3310-remove-methods-from-project](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3310-remove-methods-from-project) |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1971-find-if-path-exists-in-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2360-longest-cycle-in-a-graph) |
 | [3310-remove-methods-from-project](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3310-remove-methods-from-project) |
 ## Array
@@ -403,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1192-critical-connections-in-a-network](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1971-find-if-path-exists-in-graph](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1971-find-if-path-exists-in-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2360-longest-cycle-in-a-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3310-remove-methods-from-project](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3310-remove-methods-from-project) |
@@ -421,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0827-making-a-large-island](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0827-making-a-large-island) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
