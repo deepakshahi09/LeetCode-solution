@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0365-water-and-jug-problem) |
+| [0542-01-matrix](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0542-01-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0721-accounts-merge) |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0354-russian-doll-envelopes](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0354-russian-doll-envelopes) |
 | [0416-partition-equal-subset-sum](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0496-next-greater-element-i) |
+| [0542-01-matrix](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0542-01-matrix) |
 | [0630-course-schedule-iii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0630-course-schedule-iii) |
 | [0721-accounts-merge](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0827-making-a-large-island) |
@@ -299,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0354-russian-doll-envelopes](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0354-russian-doll-envelopes) |
 | [0392-is-subsequence](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0416-partition-equal-subset-sum) |
+| [0542-01-matrix](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -434,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0130-surrounded-regions](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0542-01-matrix) |
 | [0827-making-a-large-island](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0827-making-a-large-island) |
 | [0909-snakes-and-ladders](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0909-snakes-and-ladders) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1091-shortest-path-in-binary-matrix) |
