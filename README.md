@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1382-balance-a-binary-search-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-path-with-minimum-effort](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1971-find-if-path-exists-in-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2360-longest-cycle-in-a-graph) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [3310-remove-methods-from-project](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1382-balance-a-binary-search-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -154,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-path-with-minimum-effort](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1971-find-if-path-exists-in-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2360-longest-cycle-in-a-graph) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3310-remove-methods-from-project](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3310-remove-methods-from-project) |
 ## Array
 |  |
@@ -257,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0997-find-the-town-judge) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
