@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0542-01-matrix) |
 | [0630-course-schedule-iii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0630-course-schedule-iii) |
 | [0721-accounts-merge](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0721-accounts-merge) |
+| [0746-min-cost-climbing-stairs](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0827-making-a-large-island](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0827-making-a-large-island) |
 | [0904-fruit-into-baskets](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0904-fruit-into-baskets) |
 | [0909-snakes-and-ladders](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0909-snakes-and-ladders) |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
