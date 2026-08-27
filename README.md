@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0543-diameter-of-binary-tree) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0365-water-and-jug-problem) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0538-convert-bst-to-greater-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0538-convert-bst-to-greater-tree) |
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0543-diameter-of-binary-tree) |
@@ -141,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0365-water-and-jug-problem) |
 | [0542-01-matrix](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0542-01-matrix) |
@@ -291,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0132-palindrome-partitioning-ii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0132-palindrome-partitioning-ii) |
 | [0168-excel-sheet-column-title](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0227-basic-calculator-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0392-is-subsequence) |
 | [0721-accounts-merge](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0721-accounts-merge) |
 | [0784-letter-case-permutation](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0784-letter-case-permutation) |
@@ -384,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0146-lru-cache](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0173-binary-search-tree-iterator) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0307-range-sum-query-mutable](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0307-range-sum-query-mutable) |
 ## Doubly-Linked List
 |  |
