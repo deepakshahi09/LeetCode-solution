@@ -11,24 +11,15 @@
  */
 class Solution {
 public:
+    TreeNode* prev = NULL;
     void flatten(TreeNode* root) {
         if(!root){
             return;
         }
-        flatten(root->left);
         flatten(root->right);
-
-        if(root->left){
-            TreeNode* temp = root->right;;
-            root->right = root->left;
-            root->left = NULL;
-
-            TreeNode* curr = root->right;
-            while(curr->right){
-                curr =curr->right;
-            }
-            curr->right = temp;
-        }
-        
+        flatten(root->left);
+        root->right = prev;
+        root->left = NULL;
+        prev = root;
     }
 };
