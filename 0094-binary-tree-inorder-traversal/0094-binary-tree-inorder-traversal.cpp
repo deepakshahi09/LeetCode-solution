@@ -10,17 +10,25 @@
  * };
  */
 class Solution {
-    private:
-        void solve(vector<int>&ans,TreeNode* root){
-            if(!root) return;
-            solve(ans,root->left);
-            ans.push_back(root->val);
-            solve(ans,root->right);
-        }
 public:
     vector<int> inorderTraversal(TreeNode* root) {
+        if(!root){
+            return {};
+        }
+        TreeNode *curr = root;
+        stack<TreeNode*> st;
         vector<int>ans;
-        solve(ans,root);
+        while(curr || !st.empty()){
+            while(curr){
+                st.push(curr);
+                curr = curr->left;
+            }
+            curr = st.top();
+            st.pop();
+            ans.push_back(curr->val);
+            curr = curr->right;
+        }
         return ans;
+        
     }
 };
