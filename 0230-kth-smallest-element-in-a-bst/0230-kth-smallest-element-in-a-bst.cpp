@@ -10,22 +10,24 @@
  * };
  */
 class Solution {
-public:
-    void solve(TreeNode* root, int &k,int &ans){
-        if(!root){
-            return;
+    private:
+    int sm = INT_MAX;
+    int k = 0;
+    void solve(TreeNode* root,int kth){
+        if(!root) return;
+        solve(root->left,kth);
+        k++;
+        if(k == kth){
+            sm = root->val;
+            
         }
-        solve(root->left,k,ans);
-        k--;
-        if(k == 0){
-            ans = root->val;
-        }        
-        solve(root->right,k,ans);
+        solve(root->right,kth);
     }
-    int kthSmallest(TreeNode* root, int k) {
-        int ans = 0;
-        solve(root,k,ans);
-        return ans;
-        
+public:
+    int kthSmallest(TreeNode* root, int kth) {
+        sm = 0;
+        k = 0;
+        solve(root,kth);
+        return sm;
     }
 };
