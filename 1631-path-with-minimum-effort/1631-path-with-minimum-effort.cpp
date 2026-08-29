@@ -3,36 +3,34 @@ public:
     int minimumEffortPath(vector<vector<int>>& heights) {
         int n = heights.size();
         int m = heights[0].size();
-        vector<vector<int>>dist(n,vector<int>(m,1e9));
+        vector<vector<int>>deist(n,vector<int>(m,1e9));
         priority_queue<
-            pair<int,pair<int,int>>,
-            vector<pair<int,pair<int,int>>>,
-            greater<pair<int,pair<int,int>>>>pq;
-
-        dist[0][0] = 0;
+        pair<int,pair<int,int>>,vector<pair<int,pair<int,int>>>,greater<pair<int,pair<int,int>>>>pq;
+        int delrow[] = {0,1,0,-1};
+        int delcol[] = {-1,0,1,0};
         pq.push({0,{0,0}});
-        int delrow[] = {-1,0,1,0};
-        int delcol[] = {0,1,0,-1};
         while(!pq.empty()){
-            int dis = pq.top().first;
+            int dist = pq.top().first;
             int row = pq.top().second.first;
             int col = pq.top().second.second;
             pq.pop();
+            if(row==n-1 && col == m-1){
+                return dist;
+            }
             for(int i=0;i<4;i++){
-                int nrow = row + delrow[i];
+                int nrow = row+delrow[i];
                 int ncol = col+delcol[i];
 
-                if(nrow >= 0 && nrow < n && ncol >=0 && ncol < m){
-                    int effort = max(abs(heights[nrow][ncol] - heights[row][col]),dis);
-                    if(effort < dist[nrow][ncol]){
-                        dist[nrow][ncol] = effort;
-                        pq.push({effort,{nrow,ncol}});
+                if(nrow >= 0 && nrow < n && ncol>= 0 && ncol < m){
+                    int eff = max(dist, abs(heights[row][col] - heights[nrow][ncol]));
+                    if(eff < deist[nrow][ncol]){
+                        deist[nrow][ncol] = eff;
+                        pq.push({eff,{nrow,ncol}});
                     }
                 }
             }
         }
-
-        if(dist[n-1][m-1] == 1e9) return -1;
-        return dist[n-1][m-1];
+        return -1;
+       
     }
 };
