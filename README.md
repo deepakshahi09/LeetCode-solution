@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1091-shortest-path-in-binary-matrix](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1631-path-with-minimum-effort) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -369,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0134-gas-station) |
 | [0630-course-schedule-iii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0630-course-schedule-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1382-balance-a-binary-search-tree) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Bit Manipulation
 |  |
 | ------- |
