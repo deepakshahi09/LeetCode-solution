@@ -269,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0146-lru-cache) |
+| [0242-valid-anagram](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0496-next-greater-element-i) |
 | [0652-find-duplicate-subtrees](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -303,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0132-palindrome-partitioning-ii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0132-palindrome-partitioning-ii) |
 | [0168-excel-sheet-column-title](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0227-basic-calculator-ii) |
+| [0242-valid-anagram](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0392-is-subsequence) |
 | [0721-accounts-merge](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0721-accounts-merge) |
@@ -390,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0242-valid-anagram) |
 | [0354-russian-doll-envelopes](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0354-russian-doll-envelopes) |
 | [0630-course-schedule-iii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0630-course-schedule-iii) |
 | [0721-accounts-merge](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0721-accounts-merge) |
