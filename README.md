@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0014-longest-common-prefix) |
 | [0056-merge-intervals](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0066-plus-one) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -296,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0127-word-ladder](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0132-palindrome-partitioning-ii) |
@@ -579,4 +581,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
