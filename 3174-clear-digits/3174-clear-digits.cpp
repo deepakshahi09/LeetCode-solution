@@ -3,7 +3,7 @@ public:
     string clearDigits(string s) {
         stack<char>st;
         for(char ch : s){
-            if(isdigit(ch)){
+            if(ch >= '0' && ch <= '9'){
                 if(!st.empty()){
                     st.pop();
                 }
@@ -19,6 +19,5 @@ public:
         }
         reverse(ans.begin(),ans.end());
         return ans;
-        
     }
 };
