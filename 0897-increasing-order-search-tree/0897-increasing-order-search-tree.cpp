@@ -10,22 +10,22 @@
  * };
  */
 class Solution {
-public:
+    private:
     TreeNode* curr;
-    void inorder(TreeNode* root){
-        if(!root){
-            return;
-        }
-        inorder(root->left);
+    void solve(TreeNode* root){
+        if(!root) return;
+        solve(root->left);
         root->left = NULL;
         curr->right = root;
         curr = root;
-        inorder(root->right);
+        solve(root->right);
     }
+public:
     TreeNode* increasingBST(TreeNode* root) {
-        TreeNode* dummy = new TreeNode(0);
+        TreeNode* dummy = new TreeNode(-1);
         curr = dummy;
-        inorder(root);
-        return dummy->right;
+        solve(root);
+        return dummy-> right;
+
     }
 };
