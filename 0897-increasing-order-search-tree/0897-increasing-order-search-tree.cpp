@@ -10,22 +10,30 @@
  * };
  */
 class Solution {
-    private:
-    TreeNode* curr;
-    void solve(TreeNode* root){
-        if(!root) return;
-        solve(root->left);
-        root->left = NULL;
-        curr->right = root;
-        curr = root;
-        solve(root->right);
-    }
 public:
     TreeNode* increasingBST(TreeNode* root) {
-        TreeNode* dummy = new TreeNode(-1);
-        curr = dummy;
-        solve(root);
-        return dummy-> right;
+        stack<TreeNode*>st;
+        TreeNode* curr = root;
+        TreeNode* dummy =new TreeNode(-1);
+        TreeNode* prev = dummy;
+
+        while(curr != NULL || !st.empty()){
+
+            while(curr != NULL){
+                st.push(curr);
+                curr = curr->left;
+            }
+
+            curr = st.top();
+            st.pop();
+          
+            curr->left = NULL;
+            prev->right = curr;
+            prev = curr;
+            curr = curr->right;
+
+        }
+        return dummy->right;
 
     }
 };
