@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3174-clear-digits) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Tree
 |  |
@@ -336,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2785-sort-vowels-in-a-string](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2785-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3174-clear-digits](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3174-clear-digits) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3798-largest-even-number](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3798-largest-even-number) |
 ## Dynamic Programming
@@ -614,4 +616,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0844-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [3174-clear-digits](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
