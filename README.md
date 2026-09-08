@@ -279,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1903-largest-odd-number-in-string](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1903-largest-odd-number-in-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3870-count-commas-in-range](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3870-count-commas-in-range) |
 ## Hash Table
 |  |
 | ------- |
