@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -278,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0365-water-and-jug-problem](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0365-water-and-jug-problem) |
 | [0779-k-th-symbol-in-grammar](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0779-k-th-symbol-in-grammar) |
 | [1903-largest-odd-number-in-string](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1903-largest-odd-number-in-string) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3870-count-commas-in-range](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3870-count-commas-in-range) |
