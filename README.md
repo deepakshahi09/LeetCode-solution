@@ -302,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0997-find-the-town-judge) |
+| [1189-maximum-number-of-balloons](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1189-maximum-number-of-balloons) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -337,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-letter-case-permutation](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0784-letter-case-permutation) |
 | [0844-backspace-string-compare](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1143-longest-common-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1189-maximum-number-of-balloons) |
 | [1678-goal-parser-interpretation](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1678-goal-parser-interpretation) |
 | [1859-sorting-the-sentence](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1859-sorting-the-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -372,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1189-maximum-number-of-balloons) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3746-minimum-string-length-after-balanced-removals) |
