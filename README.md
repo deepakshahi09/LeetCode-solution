@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0307-range-sum-query-mutable) |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0268-missing-number](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0354-russian-doll-envelopes) |
 | [0450-delete-node-in-a-bst](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0450-delete-node-in-a-bst) |
@@ -279,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0227-basic-calculator-ii) |
+| [0268-missing-number](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0268-missing-number) |
 | [0365-water-and-jug-problem](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0365-water-and-jug-problem) |
 | [0779-k-th-symbol-in-grammar](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0779-k-th-symbol-in-grammar) |
 | [1903-largest-odd-number-in-string](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1903-largest-odd-number-in-string) |
@@ -294,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0496-next-greater-element-i) |
 | [0652-find-duplicate-subtrees](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -416,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0268-missing-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0779-k-th-symbol-in-grammar) |
 | [0784-letter-case-permutation](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0784-letter-case-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -428,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0056-merge-intervals](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0268-missing-number) |
 | [0354-russian-doll-envelopes](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0354-russian-doll-envelopes) |
 | [0630-course-schedule-iii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0630-course-schedule-iii) |
 | [0721-accounts-merge](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0721-accounts-merge) |
