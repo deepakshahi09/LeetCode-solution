@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0283-move-zeroes) |
@@ -297,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0146-lru-cache) |
+| [0229-majority-element-ii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0496-next-greater-element-i) |
@@ -379,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1189-maximum-number-of-balloons) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -433,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0056-merge-intervals) |
+| [0229-majority-element-ii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0268-missing-number) |
 | [0354-russian-doll-envelopes](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0354-russian-doll-envelopes) |
@@ -641,4 +645,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0844-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3174-clear-digits](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3174-clear-digits) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
