@@ -278,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0070-climbing-stairs) |
@@ -297,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0013-roman-to-integer) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0146-lru-cache) |
@@ -334,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0127-word-ladder](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0127-word-ladder) |
