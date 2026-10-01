@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -338,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0127-word-ladder](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0132-palindrome-partitioning-ii) |
@@ -654,4 +656,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0229-majority-element-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
