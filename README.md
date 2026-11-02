@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0354-russian-doll-envelopes) |
 | [0416-partition-equal-subset-sum](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0416-partition-equal-subset-sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0542-01-matrix) |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0268-missing-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0365-water-and-jug-problem) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0779-k-th-symbol-in-grammar](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0779-k-th-symbol-in-grammar) |
 | [1903-largest-odd-number-in-string](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1903-largest-odd-number-in-string) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/deepakshahi09/LeetCode-solution/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -456,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0268-missing-number) |
 | [0354-russian-doll-envelopes](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0354-russian-doll-envelopes) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0630-course-schedule-iii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0630-course-schedule-iii) |
 | [0721-accounts-merge](https://github.com/deepakshahi09/LeetCode-solution/tree/master/0721-accounts-merge) |
 | [1859-sorting-the-sentence](https://github.com/deepakshahi09/LeetCode-solution/tree/master/1859-sorting-the-sentence) |
