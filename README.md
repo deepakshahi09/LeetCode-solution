@@ -243,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3345-smallest-divisible-digit-product-i](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/deepakshahi09/LeetCode-solution/tree/master/3870-count-commas-in-range) |
 ## Hash Table
 |  |
